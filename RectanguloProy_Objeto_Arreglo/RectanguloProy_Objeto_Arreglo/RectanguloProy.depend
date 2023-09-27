@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669849306 source:c:\users\pablo\documents\rectanguloproy\funciones.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1669849335 c:\users\pablo\documents\rectanguloproy\rectangulo.h
+	<iostream>
+

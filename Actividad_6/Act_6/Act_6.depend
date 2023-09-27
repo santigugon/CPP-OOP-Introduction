@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1669421166 source:c:\users\emili\onedrive\escritorio\code\c++\situacion problema\act_6\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Coord.h"
+
+1669420253 c:\users\emili\onedrive\escritorio\code\c++\situacion problema\act_6\triangle.h
+	"Coord.h"
+
+1669419248 c:\users\emili\onedrive\escritorio\code\c++\situacion problema\act_6\coord.h
+
+1669420989 source:c:\users\emili\onedrive\escritorio\code\c++\situacion problema\act_6\triangulo.cpp
+	<iostream>
+	"Triangle.h"
+	<cmath>
+
